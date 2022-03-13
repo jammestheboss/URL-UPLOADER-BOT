@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) Shrimadhav U K | Modifieded By : @DC4_WARRIOR
+# (c) Shrimadhav U K | Modifieded By : @BIRD_from_HELL
 
 # the logging things
 from pyrogram import filters

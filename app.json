@@ -15,8 +15,8 @@
     "uploader"
   ],
   "success_url": "https://t.me/All_URL_Uploader_Bot",
-  "website": "https://github.com/kalanakt",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "website": "https://github.com/birdfromhell",
+  "repository": "https://github.com/birdfromhell/URL-UPLOADER-BOT",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
